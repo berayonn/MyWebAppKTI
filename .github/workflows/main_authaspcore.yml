@@ -54,4 +54,4 @@ jobs:
           app-name: 'AuthASPCore'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B9F09E2AE35642AC9E47098466B8A571 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B8D714F3182B4C2283B1A8569F9FC2E3 }}
